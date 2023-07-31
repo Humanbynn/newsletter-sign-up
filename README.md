@@ -36,7 +36,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://humanbynn.github.io/newsletter-sign-up/)
+- Live Site URL: (https://humanbynn.github.io/newsletter-sign-up/)
 
 ## My process
 
